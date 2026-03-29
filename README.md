@@ -14,7 +14,7 @@
 <a href="https://github.com/Rami2212"><img src="https://img.shields.io/badge/GitHub-Rami2212-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://www.linkedin.com/in/ramitha-iddamalgoda/"><img src="https://img.shields.io/badge/LinkedIn-Ramitha_Iddamalgoda-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ramithapathmilarp@gmail.com"><img src="https://img.shields.io/badge/Gmail-ramithapathmilarp-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://ramitha.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ramitha.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://ramitha.me"><img src="https://img.shields.io/badge/Portfolio-ramitha.me-000000?style=flat-square&logo=network&logoColor=white"/></a>
 
 </div>
 
